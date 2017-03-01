@@ -1,5 +1,6 @@
-Koka-next-gen
-=============
+REACT-BASIC-ROUTING
+=====================
 
-New kokaihop
+npm install
+npm-start
 
