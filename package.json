@@ -2,6 +2,8 @@
   "name": "redux-intellimeet",
   "version": "1.0.0",
   "description": "redux intellimeet",
+  "author": "kc-fragrance",
+  "license": "MIT",
   "scripts": {
     "start": "babel-node tools/server.js"
   },
@@ -57,5 +59,8 @@
     "webpack": "1.13.0",
     "webpack-dev-middleware": "1.6.1",
     "webpack-hot-middleware": "2.10.0"
+  },
+  "engines": {
+    "node": "6.4.0"
   }
 }
