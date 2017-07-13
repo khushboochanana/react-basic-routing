@@ -21,6 +21,6 @@ app.listen(port, (err) => {
 		//console.log("error", err);
 	}
 	else {
-		open(`http:\\localhost:${port}`);
+		open(`http:\\localhost:${process.env.PORT || port}`);
 	}
 });
